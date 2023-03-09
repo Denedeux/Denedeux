@@ -13,3 +13,19 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+  ---
+
+### :man_technologist: About Me : I am an aspiring software engineer in my final year of studies (Bsc Computer science) focusing on object orientated programming using languages such as Python and Java  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England but i now reside in the Netherlands.
+  - :telescope: I’m currently studying as a Software Engineer and creating my own applications that can be tested and used via gitHub.
+
+- :zap: In my free time, I write real code in intelliJ idea, i also like to read, hike and play golf.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-roberts-2582b4192/)
+  
+  ### :hammer_and_wrench: Languages and Tools : <div>   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denedeux&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ### :writing_hand: Blog Posts : <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
